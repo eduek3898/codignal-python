@@ -6,8 +6,7 @@ if homework > 60:
 else:
     paln = "finish homework quickly"
     print("That is a short homework session.")
-free_time = input("Is there free time after homework ?")
-(yes/no): ")
+free_time = input("Is there free time after homework ? (yes/no): ")
 if free_time == "yes":
     print("Reminder: pick a hobby for your free time!")
 print("=========== DAILY PLAN ===========")
